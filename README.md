@@ -1,5 +1,5 @@
 # UG-MachineLearning
-### Inteligent Data Classification and Term assignment in IBM. Unified Governance
+### Intelligent Data Classification and Term assignment in IBM. Unified Governance
 
 IBM Information Server Governance 11.7 features Machine Learning capabilities which intelligently reduces manual intensive processes of Term assignments to technical metadata in Information Governance Catalog  and Information Analyzer.
 
